@@ -119,7 +119,7 @@ This project was built using Next.js, Redux, Chakra UI, HTML, CSS, JavaScript, R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/AshokPrjapati/Meesho-clone) or just clone the project using this command.
+The project repository can be found in [GitHub link]() or just clone the project using this command.
 
 
 ```
